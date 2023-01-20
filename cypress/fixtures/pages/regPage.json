@@ -1,0 +1,9 @@
+{
+    "nameField": ":nth-child(3) > .frm",
+    "emailField": ":nth-child(4) > .frm",
+    "googleButton": ".social-button--google",
+    "vkButton": ".social-button--vk",
+    "fbButton": ".social-button--fb",
+    "tgButton": ".social-button--tg",
+    "registButton": ".btn-main"
+}

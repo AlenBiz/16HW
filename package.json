@@ -1,0 +1,23 @@
+{
+  "name": "16hw",
+  "version": "1.0.0",
+  "description": "testing registration and login ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenBiz/16HW.git"
+  },
+  "author": "AlenBiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenBiz/16HW/issues"
+  },
+  "homepage": "https://github.com/AlenBiz/16HW#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.3.0"
+  }
+}

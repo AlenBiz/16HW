@@ -1,0 +1,30 @@
+
+[
+
+   {"user": {"username": "Ak3443634",
+    "email": "testbizyaev+test233@gmail.com",
+    "password": "rty123"
+  }},
+  
+  { "user":{
+    "username": "Алёна",
+    "email": "testbizyaev+test0443@gmail.com",
+    "password": "rty123"
+  }},
+  { "user":{
+    "username": "*&&^%",
+    "email": "testbizyaev+test67@gmail.com",
+    "password": "rty123"
+  }}
+  ,
+  { "user":{
+    "username": "Alena",
+    "email": "testbizyaev+test232@gmail.com",
+    "password": "rty123"
+  }},
+  {"user": {"username": "Ak",
+  "email": "testbizyaev+test233@gmail.com",
+  "password": "rty123"
+}}
+ ]
+  
